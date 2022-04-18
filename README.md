@@ -1,2 +1,2 @@
 # ultb
-user-level thread implementation in web browser mian thread
+user-level thread implementation in web browser's mian thread
